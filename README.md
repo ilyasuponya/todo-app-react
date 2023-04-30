@@ -39,7 +39,7 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ## Credits
 
-This project was created by [Ilya Suponya](https://github.com/your-username). Thank you for your contributions!
+This project was created by [Ilya Suponya](https://github.com/ilyasuponya). Thank you for your contributions!
 
 ### Libraries Used
 
